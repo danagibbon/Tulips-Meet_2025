@@ -31,7 +31,7 @@ team.score <- function(df, event){
 }
 ```
 
-![](tulips-banner.png)
+![](tulips-banner.jpg)
 
 Hosted by the [Seattle Seals](https://www.seattlesealsgymnasticsclub.com/home) who are a [NAIGC](https://naigc.org/) Gymnastics Club. 
 
